@@ -1,4 +1,30 @@
+@media only screen and (max-width : 750px){
 
+  .Look11ImageClass{
+    display: none;
+  }
+
+  .Look2ImageClass{
+    display: none;
+  }
+
+  .Look22ImageClass{
+    display: none;
+  }
+
+  .Look4ImageClass{
+    display: none;
+  }
+
+  .Look5ImageClass{
+    display: none;
+  }
+
+  .Look7ImageClass{
+    display: none;
+  }
+
+}
 
 .Look11Class {
 	height: auto;
